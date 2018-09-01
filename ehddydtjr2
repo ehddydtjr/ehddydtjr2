@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <style>
+    .white {
+      color: white;
+    }
+    </style>
+  </head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">아프리카방송에유로트럭방송</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarColor02">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="https://section.cafe.naver.com/CombinationSearch.nhn?query=%EC%9C%A0%EB%A1%9C%ED%8A%B8%EB%9F%AD&where=">유로트럭카페 <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://eurotrucksimulator2.com/">유로트럭사이트</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://ets2.lt/">유로트럭모드</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.youtube.com/results?search_query=%EC%9C%A0%EB%A1%9C%ED%8A%B8%EB%9F%AD">타 유로트럭영상</a>
+      </li>
+    </ul>
+    </form>
+  </div>
+</nav>
+</div>
+<div class="jumbotron">
+  <h1 class="display-3">아프리카tv만의 유로트럭 방송하는사람들</h1>
+  <p >유로트럭하는사람들:bj아우디 버스 기사 백호 bj포드 sm볼보 ford파인등등</p>
+  <hr class="my-4">
+  <p><a>아프리카tv사이트</a></p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="http://www.afreecatv.com/" role="button">사이트</a>
+  </p>
+  <p>위에 적혀있는 사람들의 방송국입니다</p>
+  <button type="button" class="btn btn-primary white" onclick = "location.href = 'http://afreecatv.com/185732' ">bj아우디방송국</a></button>
+<button type="button" class="btn btn-secondary" onclick = "location.href = 'http://afreecatv.com/hthsuk12' ">버스 기사방송국</button>
+<button type="button" class="btn btn-success white" onclick = "location.href = 'http://afreecatv.com/kmh8429' ">백호방송국</button>
+<button type="button" class="btn btn-info" onclick = "location.href = 'http://afreecatv.com/psy8930259' ">bj포드방송국</button>
+<button type="button" class="btn btn-warning" onclick = "location.href = 'http://afreecatv.com/tmdals032060' ">sm볼보방송국</button>
+<button type="button" class="btn btn-danger" onclick = "location.href = 'http://afreecatv.com/ehddydtjr' ">ford파인방송국</button>
+</div>
+  </body>
+</html>
